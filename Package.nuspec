@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Script Sanitizer</id>
+    <version>1.0.0</version>
+    <authors>emilyperegrine</authors>
+    <owners>emilyperegrine</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/EverlessDrop41/Script_Sanitize_CSharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple csharp package to remove script calls but keep other html thus preventing xss while having formatted markup</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Santize Html Script Util Web Security XSS</tags>
+  </metadata>
+</package>

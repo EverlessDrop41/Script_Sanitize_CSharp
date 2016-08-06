@@ -7,7 +7,7 @@
     <ProjectGuid>{26673858-B649-41B5-8B07-758D76A3B99B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Script_Sanitize_CSharp</RootNamespace>
+    <RootNamespace>ScriptSanitizer</RootNamespace>
     <AssemblyName>Script_Sanitize_CSharp</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Script_Sanitize_CSharp
+namespace ScriptSanitizer
 {
     public static class SanitizerUtils
     {
