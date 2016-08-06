@@ -9,6 +9,7 @@ namespace Script_Sanitize_CSharp
     public class SantizerOptions
     {
         public bool loop = true;
+        public bool replaceEndTagsAfter = true;
         public string replacementText = "";
 
         public string[] tags = { "script" };
