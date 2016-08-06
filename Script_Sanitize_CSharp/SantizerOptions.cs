@@ -8,6 +8,7 @@ namespace Script_Sanitize_CSharp
 {
     public class SantizerOptions
     {
+        public static SantizerOptions Default = new SantizerOptions();
         public bool loop = true;
         public bool replaceEndTagsAfter = true;
         public string replacementText = "";
