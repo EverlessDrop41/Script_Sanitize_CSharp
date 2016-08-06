@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Script_Sanitize_CSharp
 {
-    public class Class1
+    public static class ScriptSantizer
     {
     }
 }
